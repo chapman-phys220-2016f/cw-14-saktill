@@ -50,10 +50,17 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
+#*.log
 
 # Sphinx documentation
 docs/_build/
 
 # PyBuilder
 target/
+
+# LaTeX stuff
+*.aux
+*.log
+*.blg
+*.bbl
+*.synctex.gz
