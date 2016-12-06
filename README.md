@@ -1,6 +1,6 @@
 # PHYS220 CW 14
 
-**Author:** _\<your name\>_
+**Authors:** Sakthi Kasthurirengan and Will Parker
 
 **Due date:** 2016/12/6
 
@@ -10,7 +10,7 @@ Complete the following exercise in a Jupyter notebook ```GHCND.ipynb```. Using t
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+The review of pandas was very useful and necessary. Really wish we could've had more time to explore all of its capabilities. Also interesting to see some of this real world data and how its stored.
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Saktill
